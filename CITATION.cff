@@ -5,6 +5,14 @@ type: software
 version: 1.0.0
 date-released: 2026-11-20
 license: MIT
+doi: 10.5281/zenodo.24399494
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24399494
+    description: "Concept DOI (all versions, resolves to the latest)"
+  - type: doi
+    value: 10.5281/zenodo.24399495
+    description: "Version DOI of v1.0.0"
 repository-code: "https://github.com/abdessamadmekkaoui/nstdb-offsets"
 authors:
   - family-names: Mekkaoui
@@ -25,5 +33,9 @@ keywords:
 # preferred-citation:
 #   type: article
 #   title: "Constant Offsets in the MIT-BIH Noise Stress Test Records Inflate ECG Denoising Results"
-#   authors: abdessamad mekkaoui , hachem el yousfi alaoui
+#   authors:
+#     - family-names: Mekkaoui
+#       given-names: Abdessamad
+#     - family-names: El Yousfi Alaoui
+#       given-names: My Hachem
 #   journal: "Physiological Measurement"

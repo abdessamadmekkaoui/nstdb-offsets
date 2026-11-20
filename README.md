@@ -3,7 +3,7 @@
 Code and results for the paper **"Constant Offsets in the MIT-BIH Noise Stress Test Records Inflate ECG Denoising
 Results"** (A. Mekkaoui, M. H. El Yousfi Alaoui; submitted to *Physiological Measurement*).
 
-<!-- After the Zenodo release, paste the DOI badge here, e.g. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24399494.svg)](https://doi.org/10.5281/zenodo.24399494)
 
 ## The finding in one paragraph
 
@@ -90,4 +90,8 @@ depend on the level.
 
 ## How to cite
 
-See `CITATION.cff` (GitHub shows a "Cite this repository" button). Please cite the paper and the Zenodo archive.
+See `CITATION.cff` (GitHub shows a "Cite this repository" button). Please cite the paper and the Zenodo archive:
+
+Mekkaoui A, El Yousfi Alaoui MH. nstdb-offsets: per-segment offsets in MIT-BIH Noise Stress Test records and their
+effect on ECG denoising scores. Zenodo, 2026. doi:[10.5281/zenodo.24399494](https://doi.org/10.5281/zenodo.24399494)
+(all versions; v1.0.0 = doi:10.5281/zenodo.24399495).
