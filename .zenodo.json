@@ -1,0 +1,12 @@
+{
+  "title": "nstdb-offsets: per-segment offsets in MIT-BIH Noise Stress Test records and their effect on ECG denoising scores",
+  "upload_type": "software",
+  "description": "Code and results for the paper 'Constant Offsets in the MIT-BIH Noise Stress Test Records Inflate ECG Denoising Results'. The WFDB program nst holds a continuity term constant over every 2-minute segment of the records it makes. These offsets carry 85-92 % of the added noise variance and add about 8-11 dB to the SNR improvement of any method that removes the band below 0.5 Hz. The repository reads the published NSTDB records with an independent decoder, re-implements nst, measures the effect on 48 MIT-BIH records for em, ma and bw noise, re-runs a published evaluation protocol, and provides a tool that removes the offsets.",
+  "creators": [
+    {"name": "Mekkaoui, Abdessamad", "affiliation": "BRET Lab, Mohammed VI University of Health and Sciences, Rabat, Morocco"},
+    {"name": "El Yousfi Alaoui, My Hachem", "affiliation": "BRET Lab, Mohammed VI University of Health and Sciences; Mohammed V University in Rabat, ENSAM, Morocco"}
+  ],
+  "license": "MIT",
+  "keywords": ["ECG denoising", "MIT-BIH Noise Stress Test Database", "nst", "WFDB", "benchmark", "PhysioNet"],
+  "access_right": "open"
+}

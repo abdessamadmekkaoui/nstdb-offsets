@@ -1,0 +1,8 @@
+# PhysioNet data are downloaded by scripts/download_data.py, not stored in the repository
+data/
+results/03_per_record/
+results/offsets_removed/
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
