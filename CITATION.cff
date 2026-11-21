@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or these results, please cite the paper (preferred-citation) and this archive."
 title: "nstdb-offsets: per-segment offsets in MIT-BIH Noise Stress Test records and their effect on ECG denoising scores"
 type: software
-version: 1.0.0
-date-released: 2026-11-20
+version: 1.1.0
+date-released: 2026-11-21
 license: MIT
 doi: 10.5281/zenodo.24399494
 identifiers:
@@ -17,11 +17,11 @@ repository-code: "https://github.com/abdessamadmekkaoui/nstdb-offsets"
 authors:
   - family-names: Mekkaoui
     given-names: Abdessamad
-    affiliation: "BRET Lab, Mohammed VI University of Health and Sciences, Rabat, Morocco"
+    affiliation: "BRET Lab, Mohammed VI University of Sciences and Health (UM6SS), Casablanca, Morocco"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: El Yousfi Alaoui
     given-names: My Hachem
-    affiliation: "BRET Lab, Mohammed VI University of Health and Sciences; Mohammed V University in Rabat, ENSAM, Morocco"
+    affiliation: "BRET Lab, Mohammed VI University of Sciences and Health (UM6SS), Casablanca; ENSAM, Mohammed V University in Rabat, Morocco"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 keywords:
   - ECG denoising
